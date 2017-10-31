@@ -27,11 +27,17 @@ static char * test_fac_0() {
     return 0;
 }
 
+static char * test_fac_7() {
+    mu_assert("error, factorial(0) != 5040", factorial(7) == 5040);
+    return 0;
+}
+
 /* all_tests collects a set of tests defined above, and runs them
  */
 static char * all_tests() {
     mu_run_test(test_fac_5);
     mu_run_test(test_fac_0);
+    mu_run_test(test_fac_7);
     return 0;
 }
 

@@ -1,8 +1,8 @@
 # CS510 CW 9
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Seong and Kynan**
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-09-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-09-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-09-seongkynan.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-09-seongkynan)
 
 ## Specification
 
@@ -40,7 +40,9 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+1. **Makefile is a convenient build tool to compile different sources files as desired.**
+2. **Compiling language is not as convenient to use as an interpreter language like Python, because we have to compile every time when we modify source codes. But it is faster when running, because it is closer to the machine.**
+3. **C language is a type language, which we need to familiar to in order to make an efficent program.**
 
 ## Honor Pledge
 
@@ -51,4 +53,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Seong and Kynan**
