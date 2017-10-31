@@ -32,6 +32,7 @@ static char * test_fac_7() {
     return 0;
 }
 
+
 /* all_tests collects a set of tests defined above, and runs them
  */
 static char * all_tests() {
